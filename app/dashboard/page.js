@@ -2,10 +2,6 @@
 import axios from 'axios'
 import { useEffect, useState } from 'react'
 
-export const metadata = {
-  title: "test Data"
-}
-
 export default function Page () {
   const [name, setName] = useState('')
   const [Password, setPassword] = useState('')
