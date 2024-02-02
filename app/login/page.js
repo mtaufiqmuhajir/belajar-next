@@ -45,7 +45,7 @@ export default function page () {
             </button>
           </div>
           <label className='text-center text-xs font-semibold'>
-            Don't have an account ? <a className='text-[#FF9738]'>Register</a>
+            Dont have an account ? <a className='text-[#FF9738]'>Register</a>
           </label>
         </div>
       </div>
